@@ -9,7 +9,9 @@
  
 # Screenshot
 
-[![INSERT YOUR GRAPHIC HERE](file:///C:/Users/Siddhivinayak/OneDrive/Pictures/vlcsnap-2020-08-05-01h26m49s069.png)]()
+<img src="https://github.com/aakash-m/Sword-And-Pistol/blob/master/Assets/Screenshots/Gameplay1.png" title="GAMEPLAY_shooting" alt="Gameplay1"></a>
+
+<img src="https://github.com/aakash-m/Sword-And-Pistol/blob/master/Assets/Screenshots/Gameplay2.png" title="GAMEPLAY_Score" alt="Gameplay2"></a>
 
 
 # Certificate
