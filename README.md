@@ -1,5 +1,5 @@
 # Sword-And-Pistol VR Game
-> My first virtual reality game is a capstone project of a VR development with Unity from Udemy
+> My first virtual reality game is a capstone project of a VR development with Unity course from Udemy
 
 # Requirement
 > Unity Game Engine 2019.3.14f1 and Oculus Quest 
